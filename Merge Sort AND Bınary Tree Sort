@@ -15,3 +15,11 @@ Diziyi Birleştirme (Conquer & Combine):
 [8] ve [12, 22] -> [8, 12, 22]
 [11, 16, 21] ve [8, 12, 22] -> [8, 11, 12, 16, 21, 22]
 Sonuç: [8, 11, 12, 16, 21, 22]
+
+BİNARY TREE SORT
+Root 7'dir.
+7'nin solunda 5, sağında 8 bulunur.
+5'in solunda 1, sağında 6 bulunur.
+1'in solunda 0, sağında 3 bulunur.
+3'ün solunda 2, sağında 4 bulunur.
+8'in sağında 9 bulunur.
